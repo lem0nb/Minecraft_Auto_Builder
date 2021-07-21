@@ -3,7 +3,8 @@ Minecraft Auto Builder in Minecraft Bedrock
 Use NodeJS to write and communicate through websocket. It can be built automatically in Minecraft bedrock.
 
 ## Website
-https://lem0nb.github.io/lblog/
+https://lem0nb.github.io/Minecraft_Auto_Builder/
+https://mca.js.org/
 
 ## Install
 1.Install node.js. Website:https://nodejs.org Enter '''node - v''' on the command line to check whether the installation is successful
