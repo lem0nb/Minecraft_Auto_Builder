@@ -7,11 +7,15 @@ https://lem0nb.github.io/lblog/
 
 ## Install
 1.Install node.js. Website:https://nodejs.org Enter '''node - v''' on the command line to check whether the installation is successful
+
 2.Download the latest version 
+
 3.Install dependency Library
+
 '''
 npm install
 '''
+
 4.Run
 '''
 npm start
