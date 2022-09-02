@@ -4,23 +4,24 @@ Use NodeJS to write and communicate through websocket. It can be built automatic
 
 ## Website
 https://lem0nb.github.io/Minecraft_Auto_Builder/
+
 https://mca.js.org/
 
 ## Install
-1.Install node.js. Website:https://nodejs.org Enter '''node - v''' on the command line to check whether the installation is successful
+1.Install node.js. Website:https://nodejs.org Enter ```node - v``` on the command line to check whether the installation is successful
 
 2.Download the latest version 
 
 3.Install dependency Library
 
-'''
+```
 npm install
-'''
+```
 
 4.Run
-'''
+```
 npm start
-'''
+```
 
 ## How to use?
 
@@ -45,9 +46,11 @@ Enter "sch -t [sch path]" to generating architecture in schematic format
 Enter "pixe -t [picture path]" to print pictures
 
 ## Dependency Library
+```
 nodejs-websocket
 fs
 nbt
 request
 mc-schematic 1.8
+```
 
